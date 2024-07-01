@@ -6,15 +6,13 @@ Directories included within this branch:
 
 - Flair/
 
-Both directories contain plots acquired from NIH_report.Rmd, which is found in */home/scormack/NIH/NIH_report*. Final html reports will be added as soon as they are completed.
+Both directories contain plots acquired from NIH_report.Rmd, which is found in */home/scormack/NIH/NIH_report*. Final html reports will be added as soon as they are completed. Previous work included results from tissue mixture samples (BK8020: 80% Brain, 20% Kidney, BK2080: 20% Brain, 80% Kidney), although this how now been excluded from analysis. 
 
 Condition IDs:
 
 ```
 - B100K0: Brain
 - B0K100: Kidney
-- BK8020: 80% Brain, 20% Kidney
-- BK2080: 20% Brain, 80% Kidney
 ```
 
 - scripts/
